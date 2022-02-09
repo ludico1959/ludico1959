@@ -11,7 +11,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="blob:https://discord.com/f4f4ec1d-76b3-4352-8bc6-6a6819ba268a">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="blob:https://discord.com/f4f4ec1d-76b3-4352-8bc6-6a6819ba268a.png?width=676&height=676">
 </div>
   
   ##
