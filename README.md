@@ -13,7 +13,7 @@
   <a href = "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href = "https://www.mongodb.com/pt-br/1"><img align="center" alt="MongoDB" title="MongoDB and Mongoose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"></a>
   <a href = "https://www.docker.com/"><img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></a>
-  <a href = "https://www.youtube.com/watch?v=3lyFZp9jkdw"><img align="right" alt="cool-pic" height="150" style="border-radius:50px;" src="https://logodownload.org/wp-content/uploads/2017/02/gremio-logo-escudo.png"></a>
+  <a href = "https://www.youtube.com/watch?v=3lyFZp9jkdw"><img align="right" alt="cool-pic" height="150" style="border-radius:50px;" src="https://pngimg.com/uploads/compass/compass_PNG25581.png"></a>
 </div>
   
   ##
