@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludico1959&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div><br>
-  <a href = "https://nodejs.org/en/"><img align="center" alt="Node.js e Express.js" title="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+  <a href = "https://nodejs.org/en/"><img align="center" alt="Node.js e Express.js" title="Node.js e Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
     <a href = "https://nestjs.com/"><img align="center" alt="Nest.js" title="Nest.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></a>
   <a href = "https://www.javascript.com/"><img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href = "https://www.typescriptlang.org/"><img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
