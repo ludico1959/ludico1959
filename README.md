@@ -13,7 +13,7 @@
   <a href = "https://www.java.com/"><img align="center" alt="Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
   <a href = "https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href = "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href = "https://www.mongodb.com/pt-br/1"><img align="center" alt="MongoDB" title="MongoDB and Mongoose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"></a>
+  <a href = "https://www.mongodb.com/pt-br/1"><img align="center" alt="MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"></a>
   <a href = "https://www.mysql.com/"><img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
   <a href = "https://www.postgresql.org/"><img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"></a>
   <a href = "https://www.docker.com/"><img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></a>
