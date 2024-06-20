@@ -1,7 +1,7 @@
 ## Hi, my name is Lucas Coelho! Welcome to my repository.
 <div align="center">
   <a href="https://github.com/ludico1959">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludico1959&layout=compact&langs_count=7&theme=merko"/>
+  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludico1959&layout=compact&langs_count=7&theme=merko"/>
 </div>
     <img title="Instituto Federal do Rio Grande do Sul - Campus Rio Grande" alt="IFRS" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png">
 <div><br>
