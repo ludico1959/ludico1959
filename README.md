@@ -2,6 +2,7 @@
 <div align="center">
   <a href="https://github.com/ludico1959">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludico1959&layout=compact&langs_count=7&theme=merko"/>
+      <img align="right" title="Instituto Federal do Rio Grande do Sul - Campus Rio Grande" alt="IFRS" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png">
 </div>
 <div><br>
   <a href = "https://nodejs.org/en/"><img align="center" alt="Node.js and Express.js" title="Node.js and Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
@@ -15,7 +16,6 @@
   <a href = "https://www.mysql.com/"><img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
   <a href = "https://www.postgresql.org/"><img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"></a>
   <a href = "https://www.docker.com/"><img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></a>
-  <img align="right" title="Instituto Federal do Rio Grande do Sul - Campus Rio Grande" alt="IFRS" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png">
 </div>  
   
   ##
