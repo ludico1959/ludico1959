@@ -8,7 +8,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img title="Universidade Federal do Rio Grande" alt="FURG" height="150" style="border-radius:50px;" src="https://2.bp.blogspot.com/-MtV4_KIjGYU/WEXLxbEINlI/AAAAAAAAkO4/dsxMTU-CkKAn7KZr1gXQ3qm66p_qfb30wCLcB/s1600/Logo_FURG_institucional.png">
 </div>
-<div><br>
+<div align="center"><br>
   <a href = "https://nodejs.org/en/"><img align="center" alt="Node.js and Express.js" title="Node.js and Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
   <a href = "https://www.javascript.com/"><img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href = "https://www.typescriptlang.org/"><img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
