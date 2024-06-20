@@ -3,7 +3,7 @@
   <a href="https://github.com/ludico1959">
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludico1959&layout=compact&langs_count=7&theme=merko"/>
 </div>
-<div align="center" style="padding: 0 20px;">
+<div align="center" style="text-align: center">
   <img title="Instituto Federal do Rio Grande do Sul - Campus Rio Grande" alt="IFRS" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png">
   <img title="Universidade Federal do Rio Grande" alt="FURG" height="150" style="border-radius:50px;" src="https://2.bp.blogspot.com/-MtV4_KIjGYU/WEXLxbEINlI/AAAAAAAAkO4/dsxMTU-CkKAn7KZr1gXQ3qm66p_qfb30wCLcB/s1600/Logo_FURG_institucional.png">
 </div>
