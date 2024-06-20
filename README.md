@@ -1,7 +1,6 @@
 ## Hi, my name is Lucas Coelho! Welcome to my repository.
 <div align="center">
   <a href="https://github.com/ludico1959">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ludico1959&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludico1959&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div><br>
