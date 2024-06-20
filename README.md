@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <img title="Instituto Federal do Rio Grande do Sul - Campus Rio Grande" alt="IFRS" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png">
-  <img title="Universidade Federal do Rio Grande" alt="FURG" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png](https://pt.wikipedia.org/wiki/Universidade_Federal_do_Rio_Grande#/media/Ficheiro:Logo_FURG_institucional.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_FURG_institucional.png/800px-Logo_FURG_institucional.png)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-MtV4_KIjGYU%2FWEXLxbEINlI%2FAAAAAAAAkO4%2FdsxMTU-CkKAn7KZr1gXQ3qm66p_qfb30wCLcB%2Fs1600%2FLogo_FURG_institucional.png">
+  <img title="Universidade Federal do Rio Grande" alt="FURG" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png">
 </div>
 <div><br>
   <a href = "https://nodejs.org/en/"><img align="center" alt="Node.js and Express.js" title="Node.js and Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
