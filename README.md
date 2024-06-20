@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <img title="Instituto Federal do Rio Grande do Sul - Campus Rio Grande" alt="IFRS" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png">
-  <img title="Universidade Federal do Rio Grande" alt="FURG" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png">
+  <img title="Universidade Federal do Rio Grande" alt="FURG" height="150" style="border-radius:50px;" src="https://2.bp.blogspot.com/-MtV4_KIjGYU/WEXLxbEINlI/AAAAAAAAkO4/dsxMTU-CkKAn7KZr1gXQ3qm66p_qfb30wCLcB/s1600/Logo_FURG_institucional.png">
 </div>
 <div><br>
   <a href = "https://nodejs.org/en/"><img align="center" alt="Node.js and Express.js" title="Node.js and Express.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
